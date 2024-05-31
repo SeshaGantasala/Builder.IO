@@ -1,0 +1,30 @@
+{
+  "lastUpdatedBy": "5VQlp9rSUlhlmqvRKzAt10sakk52",
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "label": "Food & Alcohol",
+    "url": "/food-and-alcohol"
+  },
+  "modelId": "cc580f03ef1e43afa402f10b59a1c42e",
+  "query": [],
+  "published": "published",
+  "firstPublished": 1714728009376,
+  "@originId": "277e372624394b078ca7c18c841137b2",
+  "testRatio": 1,
+  "lastUpdated": 1716207326221,
+  "createdDate": 1714727981556,
+  "createdBy": "5VQlp9rSUlhlmqvRKzAt10sakk52",
+  "meta": {
+    "kind": "data",
+    "lastPreviewUrl": "http://localhost:3000?builder.space=91b83327b0bc4504999072c96fea561a&builder.cachebust=true&builder.preview=nav-links&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.nav-links=277e372624394b078ca7c18c841137b2&builder.overrides.277e372624394b078ca7c18c841137b2=277e372624394b078ca7c18c841137b2"
+  },
+  "variations": {},
+  "name": "Food And Alcohol",
+  "@originModelId": "4f9ca52ab0a642918a7b410ad5aa3a4d_5beb72fbd0564e29a4c3a4d98ed9a8ba",
+  "@originOrgId": "91b83327b0bc4504999072c96fea561a",
+  "id": "d363d14a0b4b407f9824f5d6f975b104",
+  "rev": "o5v03y78i3m",
+  "@originOrg": "4f9ca52ab0a642918a7b410ad5aa3a4d",
+  "@originContentId": "4f9ca52ab0a642918a7b410ad5aa3a4d_277e372624394b078ca7c18c841137b2"
+}

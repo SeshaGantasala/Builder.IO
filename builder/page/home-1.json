@@ -1,0 +1,82 @@
+{
+  "folders": [],
+  "data": {
+    "themeId": false,
+    "title": "Home",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-3be51be229a047289e2fd016d646c21f",
+        "component": {
+          "name": "Hero",
+          "options": {
+            "breadcrumb": "Breadcrumb Test",
+            "title": "Vertical Title/Heading",
+            "description": "Vertical Short Description",
+            "IndividualsTitle": "Individuals",
+            "ShortDescIndividualsTitle": "State-Approved Online Training Courses",
+            "BusinessesTitle": "Businesses",
+            "ShortDesBusinessesTitle": "Online Training Solutions for Your Teams",
+            "buttonTextIndividuals": "Browse Courses",
+            "buttonLinkIndividuals": "http://localhost:3000",
+            "buttonTextBusinesses": "Contact Us",
+            "buttonLinkBusinesses": "http://localhost:3000"
+          }
+        },
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "20px"
+          }
+        }
+      }
+    ],
+    "url": "/",
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "f5e00df0705d4e91b985700574d63014",
+  "query": [
+    {
+      "@type": "@builder.io/core:Query",
+      "property": "urlPath",
+      "value": "/",
+      "operator": "is"
+    }
+  ],
+  "published": "published",
+  "firstPublished": 1714683012893,
+  "@originId": "20b5a0ed36af4ee0bbe5034b4a04dc4a",
+  "testRatio": 1,
+  "createdDate": 1714682987185,
+  "createdBy": "5VQlp9rSUlhlmqvRKzAt10sakk52",
+  "variations": {},
+  "name": "Home",
+  "@originModelId": "4f9ca52ab0a642918a7b410ad5aa3a4d_4c7383752be74b999e3005016b69f9c9",
+  "@originOrgId": "91b83327b0bc4504999072c96fea561a",
+  "id": "a56c698c713944e9b89c8eebd62ee85f",
+  "@liveSyncEnabled": true,
+  "lastUpdatedBy": "5VQlp9rSUlhlmqvRKzAt10sakk52",
+  "lastUpdated": 1716237681848,
+  "meta": {
+    "kind": "page",
+    "componentsUsed": {
+      "Hero": 1
+    },
+    "hasLinks": false,
+    "lastPreviewUrl": "http://localhost:3000/?builder.space=91b83327b0bc4504999072c96fea561a&builder.cachebust=true&builder.preview=page&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.page=20b5a0ed36af4ee0bbe5034b4a04dc4a&builder.overrides.20b5a0ed36af4ee0bbe5034b4a04dc4a=20b5a0ed36af4ee0bbe5034b4a04dc4a&builder.overrides.page:/=20b5a0ed36af4ee0bbe5034b4a04dc4a"
+  },
+  "rev": "3gum437epse",
+  "@originOrg": "4f9ca52ab0a642918a7b410ad5aa3a4d",
+  "@originContentId": "4f9ca52ab0a642918a7b410ad5aa3a4d_20b5a0ed36af4ee0bbe5034b4a04dc4a"
+}

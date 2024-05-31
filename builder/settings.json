@@ -1,0 +1,72 @@
+{
+  "settings": {
+    "ssoRestrictedMode": false,
+    "componentsOnlyMode": false,
+    "enableBuilderHosting": false,
+    "allowLegacyPlanSubscriptions": false,
+    "allowBuiltInComponents": true,
+    "enforceMaxUsers": false,
+    "techStack": [
+      "React",
+      "Angular",
+      "Next.js",
+      "Other"
+    ],
+    "attribution": [
+      "word-of-mouth"
+    ],
+    "enableModelValidationHooks": false,
+    "enableOrgInsights": false,
+    "isUserPluginIntegrationRequestGranted": false,
+    "apps": {
+      "Rebuy": {},
+      "Postscript": {},
+      "Klaviyo": {},
+      "Yotpo": {},
+      "Stamped_io": {}
+    },
+    "companySize": "51-250",
+    "customComponents": [
+      "Counter",
+      "SqlTable",
+      "HeroProduct",
+      "App",
+      "Footer",
+      "TextField",
+      "textField",
+      "CustomBackground",
+      "CustomBackgroundText",
+      "SpiningBall",
+      "CustomBackgroundComponent",
+      "Header",
+      "Home",
+      "Nav",
+      "SpinningBall"
+    ]
+  },
+  "type": "environment",
+  "name": "360 POC Dev",
+  "loadPlugins": [],
+  "id": "4f9ca52ab0a642918a7b410ad5aa3a4d",
+  "@version": 6,
+  "cloneInfo": {
+    "contentIdMap": {
+      "4f9ca52ab0a642918a7b410ad5aa3a4d_277e372624394b078ca7c18c841137b2": "d363d14a0b4b407f9824f5d6f975b104",
+      "4f9ca52ab0a642918a7b410ad5aa3a4d_11a354641a0d4e4f9174331cb593d231": "a510a7fc04b541f096cef3aa903b023e",
+      "4f9ca52ab0a642918a7b410ad5aa3a4d_fac0bf76a9dd4c5081cc62376d2caa57": "e947412ccb524f73a9900bb72adf2bd4",
+      "4f9ca52ab0a642918a7b410ad5aa3a4d_20b5a0ed36af4ee0bbe5034b4a04dc4a": "a56c698c713944e9b89c8eebd62ee85f",
+      "4f9ca52ab0a642918a7b410ad5aa3a4d_67274445aab34e8b83d10d92048a3b7f": "d2da6bc42c82433fb63f5c63291e92e4",
+      "4f9ca52ab0a642918a7b410ad5aa3a4d_de481952d42c4b83819ce969be4b5c2a": "d3da6e06bff7444f86abc1c72dff280b",
+      "4f9ca52ab0a642918a7b410ad5aa3a4d_d0b9588baf2b47c3a9d79bf76f2994e2": "40a3416a43ce4abd91a182babb01c0b9",
+      "4f9ca52ab0a642918a7b410ad5aa3a4d_909bdfad89af45f2ada65217f23551d2": "4203e3e6157b47faaf5f065da264f1bc"
+    },
+    "modelIdMap": {
+      "4f9ca52ab0a642918a7b410ad5aa3a4d_3a900078c69f4d43a933caa8d610f58e": "7e66e569e22442159db4584aeb258b90",
+      "4f9ca52ab0a642918a7b410ad5aa3a4d_8774732af4a94c4785ee894a7d6e9a7d": "af229b4fb5c146cda9fd2bed310bb0ce",
+      "4f9ca52ab0a642918a7b410ad5aa3a4d_203ea5317d3841a68a9276a620490d5a": "7d25d556f96140c6986599c59069ad26",
+      "4f9ca52ab0a642918a7b410ad5aa3a4d_a34f37ad5a1c48dda55f4fee1fb91013": "42b5a7f9fb2f4b3baf3c55c179dc63f0",
+      "4f9ca52ab0a642918a7b410ad5aa3a4d_5beb72fbd0564e29a4c3a4d98ed9a8ba": "cc580f03ef1e43afa402f10b59a1c42e",
+      "4f9ca52ab0a642918a7b410ad5aa3a4d_4c7383752be74b999e3005016b69f9c9": "f5e00df0705d4e91b985700574d63014"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+.navtop {
+    background-color: #000;
+    color: #fff;
+    position: relative;
+}
+
+.navtop__container {
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navtop__links {
+    margin: 0;
+    padding: 0;
+    z-index: 100;
+}
+
+.navtop__link {
+    display: inline-block;
+    list-style: none;
+    font-size: .875rem;
+    line-height: 2.92857;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-weight: 600;
+    vertical-align: top;
+}

@@ -1,0 +1,478 @@
+{
+  "lastUpdatedBy": "5VQlp9rSUlhlmqvRKzAt10sakk52",
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "httpRequests": {
+      "productInfo": "https://jsonplaceholder.typicode.com/users",
+      "navLinks": "https://cdn.builder.io/api/v3/content/nav-links/4f9ca52ab0a642918a7b410ad5aa3a4d_277e372624394b078ca7c18c841137b2?apiKey=4f9ca52ab0a642918a7b410ad5aa3a4d&includeRefs=true&fields=data&omit=data.blocks&userAttributes.respectScheduling=true&locale={{state.locale}}"
+    },
+    "inputs": [],
+    "themeId": false,
+    "title": "Test-Code",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "layerName": "Box",
+        "id": "builder-67c96439a3b14ce9b293e087bd3d3def",
+        "meta": {
+          "previousId": "builder-cffade4de627405aadf125b70a6b47e1"
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-037048bdef2047cda4d1614423af16f9",
+            "meta": {
+              "previousId": "builder-5968d99fba5d4d35b4d320af2d173b08"
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "layerName": "360 Training",
+                "id": "builder-a248321bb42b4ff7b0dc3b3adf757585",
+                "meta": {
+                  "previousId": "builder-769c5339ae2449ae95580a790bd2d084"
+                },
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "360 Training"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "lineHeight": "normal",
+                    "height": "auto",
+                    "marginRight": "30px",
+                    "color": "rgba(255, 255, 255, 1)",
+                    "marginLeft": "20px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "layerName": "FOOD & ALCOHOL",
+                "id": "builder-4f5a8b7cb7504f35871f661b4914aecd",
+                "meta": {
+                  "previousId": "builder-e9c3585c6d094b1cb60a8101c3f76fd7"
+                },
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "FOOD &amp; ALCOHOL"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "lineHeight": "normal",
+                    "height": "auto",
+                    "marginRight": "30px",
+                    "color": "rgba(255, 255, 255, 1)"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "layerName": "ENVIRONMENTAL SAFETY & OSHA",
+                "id": "builder-8fd14c3a0f054c72951c0a1b8385e3c1",
+                "meta": {
+                  "previousId": "builder-50f8d3af97c248a6a391190b0f0a68f6"
+                },
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "ENVIRONMENTAL SAFETY &amp; OSHA"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "lineHeight": "normal",
+                    "height": "auto",
+                    "marginRight": "30px",
+                    "color": "rgba(255, 255, 255, 1)"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "layerName": "HEALTHCARE",
+                "id": "builder-004ab78fa73441a59500eae7ab63bf13",
+                "meta": {
+                  "previousId": "builder-6c69e72cf4414b8da6930ef5e450239e"
+                },
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "HEALTHCARE"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "lineHeight": "normal",
+                    "height": "auto",
+                    "marginRight": "30px",
+                    "color": "rgba(255, 255, 255, 1)"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "layerName": "REAL ESTATE",
+                "id": "builder-b93414bfd466421abd10f42f2748fea8",
+                "meta": {
+                  "previousId": "builder-9c8b9dc85c5b4b2ab000618126f4ce97"
+                },
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "REAL ESTATE"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "lineHeight": "normal",
+                    "height": "auto",
+                    "marginRight": "30px",
+                    "color": "rgba(255, 255, 255, 1)"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "layerName": "Other Industries",
+                "id": "builder-3c7409aeb64d4516a534cf5fd0d741fe",
+                "meta": {
+                  "previousId": "builder-38419f9c2e414f2baee8158df4432f46"
+                },
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "Other Industries"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "lineHeight": "normal",
+                    "height": "auto",
+                    "marginRight": "30px",
+                    "color": "rgba(255, 255, 255, 1)"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "row",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "0px",
+                "maxWidth": "1440px"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "auto",
+            "backgroundColor": "rgba(0, 0, 0, 1)",
+            "paddingRight": "50px",
+            "marginBottom": "auto",
+            "paddingTop": "20px",
+            "paddingBottom": "20px",
+            "alignItems": "stretch"
+          }
+        }
+      },
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-2f5fca6106e0410c98fb9e6cd4e8c0a4",
+        "component": {
+          "name": "Text",
+          "options": {
+            "text": "Hello World! I did it!"
+          }
+        },
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "20px",
+            "lineHeight": "normal",
+            "height": "auto"
+          }
+        }
+      },
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-be43c1e284d2484186a2594580ef7b0e",
+        "component": {
+          "name": "Hero",
+          "options": {
+            "breadcrumb": "Home > Hello World > End",
+            "title": "Vertical Title/Heading",
+            "description": "Learn everything you need to know about OSHA 29 CFR 1926 standards to earn your OSHA 10 DOL card on your own schedule. Protect your coworkers from construction-related injuries and prevent accidents by completing your required OSHA-authorized training quickly and easily. Enroll now!",
+            "IndividualsTitle": "Individuals",
+            "ShortDescIndividualsTitle": "State-Approved Online Training Courses",
+            "BusinessesTitle": "Businesses",
+            "ShortDesBusinessesTitle": "Online Training Solutions for Your Teams",
+            "buttonTextIndividuals": "Browse Courses",
+            "buttonLinkIndividuals": "http://localhost:3000",
+            "buttonTextBusinesses": "Contact Us",
+            "buttonLinkBusinesses": "http://localhost:3000"
+          }
+        },
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "20px",
+            "fontSize": "24px"
+          }
+        }
+      },
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-daadbcadebf040b89b8f0f7f0697875d",
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-325c5916af7a4833b4a83d7dbb9303fd",
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "bindings": {
+                  "component.options.text": "return name"
+                },
+                "code": {
+                  "bindings": {
+                    "component.options.text": "name"
+                  }
+                },
+                "id": "builder-5f00bec8c2434c3e9e67c0c01d5048d5",
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "Enter some text..."
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "lineHeight": "normal",
+                    "height": "auto"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "bindings": {
+                  "component.options.text": "var _virtual_index=state.navLinks.data.label;return _virtual_index"
+                },
+                "code": {
+                  "bindings": {
+                    "component.options.text": "state.navLinks.data.label"
+                  }
+                },
+                "id": "builder-c9bad2d084fb4287a9d360e94deeff4c",
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "Enter some text..."
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "lineHeight": "normal",
+                    "height": "auto"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "bindings": {
+                  "component.options.text": ""
+                },
+                "code": {
+                  "bindings": {
+                    "component.options.text": ""
+                  }
+                },
+                "id": "builder-93c1adfd061b445db1f2af965ed6b662",
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "Enter some text..."
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "lineHeight": "normal",
+                    "height": "auto"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "height": "auto",
+                "paddingBottom": "30px"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "20px",
+            "height": "auto",
+            "paddingBottom": "30px"
+          }
+        }
+      }
+    ],
+    "url": "/test-code",
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "f5e00df0705d4e91b985700574d63014",
+  "query": [
+    {
+      "@type": "@builder.io/core:Query",
+      "property": "urlPath",
+      "value": "/test-code",
+      "operator": "is"
+    }
+  ],
+  "published": "published",
+  "firstPublished": 1714678750746,
+  "@originId": "67274445aab34e8b83d10d92048a3b7f",
+  "testRatio": 1,
+  "lastUpdated": 1716207326294,
+  "createdDate": 1714678571039,
+  "createdBy": "5VQlp9rSUlhlmqvRKzAt10sakk52",
+  "meta": {
+    "lastPreviewUrl": "http://localhost:3000/test-code?builder.space=91b83327b0bc4504999072c96fea561a&builder.cachebust=true&builder.preview=page&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.page=67274445aab34e8b83d10d92048a3b7f&builder.overrides.67274445aab34e8b83d10d92048a3b7f=67274445aab34e8b83d10d92048a3b7f&builder.overrides.page:/test-code=67274445aab34e8b83d10d92048a3b7f",
+    "kind": "page",
+    "componentsUsed": {
+      "Hero": 1
+    },
+    "hasLinks": false,
+    "dataSources": [
+      {
+        "resourceId": "cc580f03ef1e43afa402f10b59a1c42e",
+        "dataPluginName": "Builder.io",
+        "propertyName": "navLinks",
+        "options": {
+          "single": false,
+          "orderType": "descending",
+          "entry": "d363d14a0b4b407f9824f5d6f975b104",
+          "respectScheduling": true,
+          "query": [],
+          "limit": 10,
+          "orderBy": "priority",
+          "locale": "{{state.locale}}",
+          "omit": "data.blocks"
+        },
+        "resourceName": "Nav Links"
+      }
+    ]
+  },
+  "variations": {},
+  "name": "Test-Code",
+  "@originModelId": "4f9ca52ab0a642918a7b410ad5aa3a4d_4c7383752be74b999e3005016b69f9c9",
+  "@originOrgId": "91b83327b0bc4504999072c96fea561a",
+  "id": "d2da6bc42c82433fb63f5c63291e92e4",
+  "rev": "3gum437epse",
+  "@originOrg": "4f9ca52ab0a642918a7b410ad5aa3a4d",
+  "@originContentId": "4f9ca52ab0a642918a7b410ad5aa3a4d_67274445aab34e8b83d10d92048a3b7f"
+}

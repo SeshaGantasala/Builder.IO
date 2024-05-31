@@ -1,0 +1,2052 @@
+{
+  "lastUpdatedBy": "5VQlp9rSUlhlmqvRKzAt10sakk52",
+  "@liveSyncEnabled": true,
+  "folders": [],
+  "data": {
+    "customFonts": [
+      {
+        "kind": "webfonts#webfont",
+        "files": {
+          "100": "https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTed3FBGPaTSQ.ttf",
+          "200": "https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_V1tvFP-KUEg.ttf",
+          "300": "https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8V1tvFP-KUEg.ttf",
+          "500": "https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1tvFP-KUEg.ttf",
+          "600": "https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1tvFP-KUEg.ttf",
+          "700": "https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1tvFP-KUEg.ttf",
+          "800": "https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4V1tvFP-KUEg.ttf",
+          "900": "https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5V1tvFP-KUEg.ttf",
+          "300italic": "https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21llEN2PQEhcqw.ttf",
+          "italic": "https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLed3FBGPaTSQ.ttf",
+          "500italic": "https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hlEN2PQEhcqw.ttf",
+          "800italic": "https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111lEN2PQEhcqw.ttf",
+          "700italic": "https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15lEN2PQEhcqw.ttf",
+          "900italic": "https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xlEN2PQEhcqw.ttf",
+          "600italic": "https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19lEN2PQEhcqw.ttf",
+          "100italic": "https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE3tFOvODSVFF.ttf",
+          "200italic": "https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1plEN2PQEhcqw.ttf",
+          "regular": "https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJDUc1NECPY.ttf"
+        },
+        "lastModified": "2022-09-22",
+        "variants": [
+          "100",
+          "100italic",
+          "200",
+          "200italic",
+          "300",
+          "300italic",
+          "regular",
+          "italic",
+          "500",
+          "500italic",
+          "600",
+          "600italic",
+          "700",
+          "700italic",
+          "800",
+          "800italic",
+          "900",
+          "900italic"
+        ],
+        "category": "sans-serif",
+        "family": "Poppins",
+        "menu": "https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJHedw.ttf",
+        "version": "v20",
+        "subsets": [
+          "devanagari",
+          "latin",
+          "latin-ext"
+        ]
+      }
+    ],
+    "title": "Builder + Next.js Demo Page",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "id": "builder-10a42e622d214d9ba9bcbeba09a9cc84",
+        "component": {
+          "name": "Core:Section",
+          "options": {
+            "maxWidth": 1200,
+            "lazyLoad": false
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "layerName": "Visually Build Any App",
+            "id": "builder-8a006b916e434cfc8ceaf5e604b3ddf5",
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-d31b76842cba42eda65a8ae615c226e3",
+                "children": [
+                  {
+                    "@type": "@builder.io/sdk:Element",
+                    "@version": 2,
+                    "id": "builder-a44ca7aa59e54892abf9adb4c59824b1",
+                    "component": {
+                      "name": "Image",
+                      "options": {
+                        "image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7bca7936d0a54d568dc5da34f4aaa5af?width=50",
+                        "backgroundSize": "contain",
+                        "backgroundPosition": "center",
+                        "lazy": false,
+                        "fitContent": true,
+                        "aspectRatio": 1,
+                        "lockAspectRatio": false,
+                        "height": 150,
+                        "width": 150,
+                        "sizes": "(max-width: 638px) 8vw, (max-width: 998px) 6vw, 4vw",
+                        "noWebp": true,
+                        "srcset": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7bca7936d0a54d568dc5da34f4aaa5af?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7bca7936d0a54d568dc5da34f4aaa5af?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7bca7936d0a54d568dc5da34f4aaa5af?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7bca7936d0a54d568dc5da34f4aaa5af?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7bca7936d0a54d568dc5da34f4aaa5af?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7bca7936d0a54d568dc5da34f4aaa5af?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7bca7936d0a54d568dc5da34f4aaa5af?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7bca7936d0a54d568dc5da34f4aaa5af?width=50 50w"
+                      }
+                    },
+                    "responsiveStyles": {
+                      "large": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "position": "relative",
+                        "flexShrink": "0",
+                        "boxSizing": "border-box",
+                        "marginTop": "0px",
+                        "width": "100%",
+                        "minHeight": "20px",
+                        "minWidth": "20px",
+                        "overflow": "hidden",
+                        "maxWidth": "50px"
+                      }
+                    }
+                  },
+                  {
+                    "@type": "@builder.io/sdk:Element",
+                    "@version": 2,
+                    "id": "builder-4dd137caa0ea4d6e94bbc7857b13538d",
+                    "component": {
+                      "name": "Text",
+                      "options": {
+                        "text": "<p>+</p>"
+                      }
+                    },
+                    "responsiveStyles": {
+                      "large": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "position": "relative",
+                        "flexShrink": "0",
+                        "boxSizing": "border-box",
+                        "lineHeight": "normal",
+                        "height": "auto",
+                        "color": "rgba(0, 0, 0, 1)",
+                        "fontSize": "28px",
+                        "fontWeight": "300",
+                        "width": "auto",
+                        "alignSelf": "center"
+                      }
+                    }
+                  },
+                  {
+                    "@type": "@builder.io/sdk:Element",
+                    "@version": 2,
+                    "id": "builder-7aa3f35e9d6e4705b995d53f6ef38d1e",
+                    "meta": {
+                      "previousId": "builder-a44ca7aa59e54892abf9adb4c59824b1"
+                    },
+                    "component": {
+                      "name": "Image",
+                      "options": {
+                        "image": "https://cdn.builder.io/api/v1/image/assets%2F8d9ee72a33344b4b867918b442ebd0af%2F674df6ccd3c94f29bf67d9a8e5b00e08?width=39",
+                        "backgroundSize": "contain",
+                        "backgroundPosition": "center",
+                        "lazy": false,
+                        "fitContent": true,
+                        "aspectRatio": 1.136,
+                        "lockAspectRatio": false,
+                        "height": 67,
+                        "width": 59,
+                        "noWebp": true,
+                        "srcset": "https://cdn.builder.io/api/v1/image/assets%2F8d9ee72a33344b4b867918b442ebd0af%2F674df6ccd3c94f29bf67d9a8e5b00e08?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F8d9ee72a33344b4b867918b442ebd0af%2F674df6ccd3c94f29bf67d9a8e5b00e08?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F8d9ee72a33344b4b867918b442ebd0af%2F674df6ccd3c94f29bf67d9a8e5b00e08?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F8d9ee72a33344b4b867918b442ebd0af%2F674df6ccd3c94f29bf67d9a8e5b00e08?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F8d9ee72a33344b4b867918b442ebd0af%2F674df6ccd3c94f29bf67d9a8e5b00e08?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F8d9ee72a33344b4b867918b442ebd0af%2F674df6ccd3c94f29bf67d9a8e5b00e08?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F8d9ee72a33344b4b867918b442ebd0af%2F674df6ccd3c94f29bf67d9a8e5b00e08?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F8d9ee72a33344b4b867918b442ebd0af%2F674df6ccd3c94f29bf67d9a8e5b00e08?width=39 39w",
+                        "sizes": "(max-width: 638px) 7vw, (max-width: 998px) 4vw, 3vw"
+                      }
+                    },
+                    "responsiveStyles": {
+                      "large": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "position": "relative",
+                        "flexShrink": "0",
+                        "boxSizing": "border-box",
+                        "marginTop": "0px",
+                        "width": "100%",
+                        "minHeight": "20px",
+                        "minWidth": "20px",
+                        "overflow": "hidden",
+                        "maxWidth": "39px"
+                      }
+                    }
+                  }
+                ],
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "row",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "justifyContent": "center",
+                    "gap": "26px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-5772e15c506a4bd7be464d6f6dfa4eb2",
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "<p>Visually build any app with Next.js and Builder.io</p>"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "21px",
+                    "lineHeight": "normal",
+                    "height": "auto",
+                    "color": "rgba(0, 0, 0, 1)",
+                    "fontFamily": "\"Poppins\", sans-serif",
+                    "fontWeight": "600",
+                    "fontSize": "30px",
+                    "textAlign": "center",
+                    "width": "100%",
+                    "maxWidth": "500px"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "alignItems": "center",
+                "paddingLeft": "20px",
+                "paddingRight": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "layerName": "Make Your First Edit",
+            "id": "builder-dded18655e1b42c09b6a7af67f00df29",
+            "meta": {
+              "previousId": "builder-6586cfcd727541d39a09d07dedd0ed3f"
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-3b99277099844aa9b02f42961beb1774",
+                "meta": {
+                  "previousId": "builder-58021b128db34c45b61af44c0ee5bd35"
+                },
+                "children": [
+                  {
+                    "@type": "@builder.io/sdk:Element",
+                    "@version": 2,
+                    "id": "builder-b2e187b0f5a644febc4df48a6fddceea",
+                    "meta": {
+                      "previousId": "builder-9ab3b81f2d73400d9f5ae879f24180ba"
+                    },
+                    "component": {
+                      "name": "Text",
+                      "options": {
+                        "text": "<p>Compose with your components</p>"
+                      }
+                    },
+                    "responsiveStyles": {
+                      "large": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "position": "relative",
+                        "flexShrink": "0",
+                        "boxSizing": "border-box",
+                        "marginTop": "0px",
+                        "lineHeight": "normal",
+                        "height": "auto",
+                        "fontFamily": "\"Poppins\", sans-serif",
+                        "color": "rgba(0, 0, 0, 1)",
+                        "fontWeight": "600",
+                        "textAlign": "left",
+                        "marginBottom": "10px"
+                      }
+                    }
+                  },
+                  {
+                    "@type": "@builder.io/sdk:Element",
+                    "@version": 2,
+                    "id": "builder-98dfdf31ff9d4656a4ca9e797a3a3552",
+                    "meta": {
+                      "previousId": "builder-ed1e9f7efc97458196db0ce8806ce626"
+                    },
+                    "component": {
+                      "name": "Text",
+                      "options": {
+                        "text": "<p>This is a custom component written in Next and registered with Builder. You can register any code components for drag-and-drop editing.</p>"
+                      }
+                    },
+                    "responsiveStyles": {
+                      "large": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "position": "relative",
+                        "flexShrink": "0",
+                        "boxSizing": "border-box",
+                        "marginTop": "0",
+                        "lineHeight": "normal",
+                        "height": "auto",
+                        "fontFamily": "\"Poppins\", sans-serif",
+                        "color": "rgba(0, 0, 0, 1)",
+                        "fontWeight": "400",
+                        "textAlign": "left",
+                        "fontSize": "12px"
+                      },
+                      "small": {
+                        "textAlign": "center"
+                      }
+                    }
+                  },
+                  {
+                    "@type": "@builder.io/sdk:Element",
+                    "@version": 2,
+                    "id": "builder-45c4cbb2335e470f91710038e9d52e06",
+                    "meta": {
+                      "previousId": "builder-eefdacf60136417fa22db9f0728f9474"
+                    },
+                    "component": {
+                      "name": "Image",
+                      "options": {
+                        "image": "https://cdn.builder.io/api/v1/image/assets%2F8d9ee72a33344b4b867918b442ebd0af%2Fdd6e201535a748229aa374f04e14eaea",
+                        "backgroundSize": "contain",
+                        "backgroundPosition": "center",
+                        "lazy": false,
+                        "fitContent": true,
+                        "aspectRatio": 0.347,
+                        "lockAspectRatio": false,
+                        "height": 104,
+                        "width": 300,
+                        "sizes": "(max-width: 998px) 11vw, 8vw",
+                        "noWebp": true
+                      }
+                    },
+                    "responsiveStyles": {
+                      "large": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "position": "relative",
+                        "flexShrink": "0",
+                        "boxSizing": "border-box",
+                        "marginTop": "20px",
+                        "width": "100%",
+                        "minHeight": "20px",
+                        "minWidth": "20px",
+                        "overflow": "hidden",
+                        "marginLeft": "auto",
+                        "maxWidth": "102px"
+                      },
+                      "medium": {
+                        "display": "flex"
+                      },
+                      "small": {
+                        "display": "none"
+                      }
+                    }
+                  }
+                ],
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "justifyContent": "center",
+                    "maxWidth": "50%",
+                    "paddingLeft": "20px",
+                    "color": "rgba(0, 0, 0, 1)"
+                  },
+                  "small": {
+                    "alignItems": "center",
+                    "maxWidth": "300px",
+                    "paddingLeft": "0px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-1fa6a854d4e44c2994f29d150f088660",
+                "meta": {
+                  "previousId": "builder-57e1ccc2dfac4bb681c5f2ca89418325"
+                },
+                "component": {
+                  "name": "Counter",
+                  "options": {
+                    "initialValue": 99,
+                    "initialCount": 50
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginLeft": "0px",
+                    "maxWidth": "50%",
+                    "paddingRight": "20px",
+                    "width": "100%"
+                  },
+                  "small": {
+                    "marginLeft": "auto",
+                    "marginRight": "auto",
+                    "paddingRight": "0px"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "row",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "80px",
+                "justifyContent": "center",
+                "width": "100%",
+                "alignSelf": "center",
+                "maxWidth": "700px",
+                "gap": "40px"
+              },
+              "small": {
+                "display": "flex",
+                "flexDirection": "column",
+                "alignItems": "center"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "layerName": "Start here",
+            "id": "builder-6586cfcd727541d39a09d07dedd0ed3f",
+            "meta": {
+              "previousId": "builder-dde4a6fc8d88497691bfa7a59e748b9f"
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "tagName": "a",
+                "id": "builder-58021b128db34c45b61af44c0ee5bd35",
+                "properties": {
+                  "href": "https://www.builder.io/c/docs/integrating-builder-pages#creating-a-builder-page",
+                  "target": "_blank"
+                },
+                "linkUrl": "https://www.builder.io/c/docs/integrating-builder-pages#creating-a-builder-page",
+                "meta": {
+                  "previousId": "builder-516ed445076f4d0bbd3f945260592050"
+                },
+                "children": [
+                  {
+                    "@type": "@builder.io/sdk:Element",
+                    "@version": 2,
+                    "id": "builder-a7048da9ea284d8692e6876daf6b30a9",
+                    "children": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-b1ec9bad540b4ea38d51410304c6b14b",
+                        "component": {
+                          "name": "Image",
+                          "options": {
+                            "image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F238f66e07d3049eaa5d93b56b86c6579?",
+                            "backgroundSize": "cover",
+                            "backgroundPosition": "center",
+                            "lazy": false,
+                            "fitContent": true,
+                            "aspectRatio": 0.45,
+                            "lockAspectRatio": false,
+                            "height": 448,
+                            "width": 996
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginTop": "0px",
+                            "width": "100%",
+                            "minHeight": "20px",
+                            "minWidth": "20px",
+                            "overflow": "hidden",
+                            "borderRadius": "0px"
+                          }
+                        }
+                      },
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-9ab3b81f2d73400d9f5ae879f24180ba",
+                        "meta": {
+                          "previousId": "builder-fe5e7f5d00164549b3d3c20d20dbff97"
+                        },
+                        "component": {
+                          "name": "Text",
+                          "options": {
+                            "text": "<p>Create Builder pages in your app</p>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginTop": "9px",
+                            "lineHeight": "normal",
+                            "height": "auto",
+                            "fontFamily": "\"Poppins\", sans-serif",
+                            "color": "rgba(0, 0, 0, 1)",
+                            "fontWeight": "600",
+                            "textAlign": "center",
+                            "marginBottom": "10px",
+                            "paddingLeft": "10px",
+                            "paddingRight": "10px"
+                          }
+                        }
+                      },
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-ed1e9f7efc97458196db0ce8806ce626",
+                        "meta": {
+                          "previousId": "builder-42323613cf7640d59682951b14aaa55c"
+                        },
+                        "component": {
+                          "name": "Text",
+                          "options": {
+                            "text": "<p>This is an example page created in Builder. Start here to review how your integration works and create new pages in your app.</p>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginTop": "0",
+                            "lineHeight": "normal",
+                            "height": "auto",
+                            "fontFamily": "\"Poppins\", sans-serif",
+                            "color": "rgba(0, 0, 0, 1)",
+                            "fontWeight": "400",
+                            "textAlign": "center",
+                            "fontSize": "12px",
+                            "width": "100%",
+                            "maxWidth": "450px",
+                            "marginLeft": "auto",
+                            "marginRight": "auto",
+                            "paddingLeft": "10px",
+                            "paddingRight": "10px"
+                          },
+                          "small": {
+                            "textAlign": "center"
+                          }
+                        }
+                      }
+                    ],
+                    "responsiveStyles": {
+                      "large": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "position": "relative",
+                        "flexShrink": "0",
+                        "boxSizing": "border-box",
+                        "paddingLeft": "0px",
+                        "paddingTop": "0px",
+                        "paddingBottom": "20px",
+                        "paddingRight": "0px",
+                        "borderStyle": "solid",
+                        "borderColor": "rgba(0, 0, 0, 1)",
+                        "borderWidth": "1px",
+                        "borderRadius": "9px",
+                        "overflow": "hidden"
+                      }
+                    }
+                  }
+                ],
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "justifyContent": "space-between",
+                    "cursor": "pointer",
+                    "pointerEvents": "auto",
+                    "width": "100%",
+                    "overflow": "hidden"
+                  },
+                  "small": {
+                    "alignItems": "center",
+                    "maxWidth": "300px",
+                    "paddingLeft": "0px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "tagName": "a",
+                "id": "builder-43350b0fc4ee48ad81ca25c1b1e54a1e",
+                "properties": {
+                  "href": "https://www.builder.io/c/docs/custom-components-intro",
+                  "target": "_blank"
+                },
+                "linkUrl": "https://www.builder.io/c/docs/custom-components-intro",
+                "meta": {
+                  "previousId": "builder-58021b128db34c45b61af44c0ee5bd35"
+                },
+                "children": [
+                  {
+                    "@type": "@builder.io/sdk:Element",
+                    "@version": 2,
+                    "id": "builder-ab4be5bce2cd40ea9336468d67ced079",
+                    "meta": {
+                      "previousId": "builder-a7048da9ea284d8692e6876daf6b30a9"
+                    },
+                    "children": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-bcfb60c00a664caea2c4a7ec7e8c03ff",
+                        "children": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-564d60b54e894d16a1dcb8a5c1a2e068",
+                            "meta": {
+                              "previousId": "builder-b1ec9bad540b4ea38d51410304c6b14b"
+                            },
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F5a4c2bdfff2049c09a9b7dbcc036a263",
+                                "backgroundSize": "cover",
+                                "backgroundPosition": "center",
+                                "lazy": false,
+                                "fitContent": true,
+                                "aspectRatio": 0.303,
+                                "lockAspectRatio": false,
+                                "height": 242,
+                                "width": 798
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "0px",
+                                "width": "100%",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden",
+                                "borderRadius": "0px"
+                              }
+                            }
+                          }
+                        ],
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "backgroundColor": "#0d052c"
+                          }
+                        }
+                      },
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-3b3ff23dc10346b1b206173d2cb5c0cc",
+                        "meta": {
+                          "previousId": "builder-9ab3b81f2d73400d9f5ae879f24180ba"
+                        },
+                        "component": {
+                          "name": "Text",
+                          "options": {
+                            "text": "<p>Register your Next components </p>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginTop": "9px",
+                            "lineHeight": "normal",
+                            "height": "auto",
+                            "fontFamily": "\"Poppins\", sans-serif",
+                            "color": "rgba(0, 0, 0, 1)",
+                            "fontWeight": "600",
+                            "textAlign": "center",
+                            "marginBottom": "10px",
+                            "paddingLeft": "10px",
+                            "paddingRight": "10px"
+                          }
+                        }
+                      },
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-23dd13d282614469be40bd122dc3bf13",
+                        "meta": {
+                          "previousId": "builder-ed1e9f7efc97458196db0ce8806ce626"
+                        },
+                        "component": {
+                          "name": "Text",
+                          "options": {
+                            "text": "<p>Register your Next.js components in Builder. You can drag and drop any custom component from the Visual Editor onto a page.</p>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginTop": "0",
+                            "lineHeight": "normal",
+                            "height": "auto",
+                            "fontFamily": "\"Poppins\", sans-serif",
+                            "color": "rgba(0, 0, 0, 1)",
+                            "fontWeight": "400",
+                            "textAlign": "center",
+                            "fontSize": "12px",
+                            "paddingLeft": "10px",
+                            "paddingRight": "10px"
+                          },
+                          "small": {
+                            "textAlign": "center"
+                          }
+                        }
+                      }
+                    ],
+                    "responsiveStyles": {
+                      "large": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "position": "relative",
+                        "flexShrink": "0",
+                        "boxSizing": "border-box",
+                        "paddingLeft": "0px",
+                        "paddingTop": "0px",
+                        "paddingBottom": "20px",
+                        "paddingRight": "0px",
+                        "borderStyle": "solid",
+                        "borderColor": "rgba(0, 0, 0, 1)",
+                        "borderWidth": "1px",
+                        "borderRadius": "9px",
+                        "overflow": "hidden"
+                      }
+                    }
+                  }
+                ],
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "justifyContent": "space-between",
+                    "maxWidth": "48%",
+                    "cursor": "pointer",
+                    "pointerEvents": "auto",
+                    "overflow": "hidden"
+                  },
+                  "medium": {
+                    "maxWidth": "100%",
+                    "width": "100%"
+                  },
+                  "small": {
+                    "alignItems": "center",
+                    "maxWidth": "300px",
+                    "paddingLeft": "0px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "tagName": "a",
+                "id": "builder-b119625d5b0b4af796502b4266ee028b",
+                "properties": {
+                  "href": "https://www.builder.io/c/blueprints",
+                  "target": "_blank"
+                },
+                "linkUrl": "https://www.builder.io/c/blueprints",
+                "meta": {
+                  "previousId": "builder-58021b128db34c45b61af44c0ee5bd35"
+                },
+                "children": [
+                  {
+                    "@type": "@builder.io/sdk:Element",
+                    "@version": 2,
+                    "id": "builder-52eb00c675d04b638edfa2266fc950da",
+                    "children": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-c8ea2a934392416ab72b1afe92e3673d",
+                        "children": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-df61938ed5bd4213a56afaf9c648fa66",
+                            "meta": {
+                              "previousId": "builder-b1ec9bad540b4ea38d51410304c6b14b"
+                            },
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F74cceb58eae948e4b1edcc930a7c23b9?format=webp&width=2000",
+                                "backgroundSize": "cover",
+                                "backgroundPosition": "center",
+                                "lazy": false,
+                                "fitContent": true,
+                                "aspectRatio": 0.342,
+                                "lockAspectRatio": false,
+                                "height": 356,
+                                "width": 1040
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "0px",
+                                "width": "100%",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden",
+                                "maxWidth": "170px"
+                              }
+                            }
+                          }
+                        ],
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "backgroundColor": "#191919",
+                            "alignItems": "center",
+                            "justifyContent": "center",
+                            "paddingTop": "9px",
+                            "paddingLeft": "9px",
+                            "paddingBottom": "35px",
+                            "paddingRight": "9px",
+                            "borderRadius": "0px"
+                          }
+                        }
+                      },
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-411806c63c9b445591c65f1d2dffe967",
+                        "meta": {
+                          "previousId": "builder-9ab3b81f2d73400d9f5ae879f24180ba"
+                        },
+                        "component": {
+                          "name": "Text",
+                          "options": {
+                            "text": "<p>Integrate common use cases</p>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginTop": "9px",
+                            "lineHeight": "normal",
+                            "height": "auto",
+                            "fontFamily": "\"Poppins\", sans-serif",
+                            "color": "rgba(0, 0, 0, 1)",
+                            "fontWeight": "600",
+                            "textAlign": "center",
+                            "marginBottom": "10px",
+                            "paddingLeft": "10px",
+                            "paddingRight": "10px"
+                          }
+                        }
+                      },
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-9ee29504f5fd4daf9a5bf3651500bfca",
+                        "meta": {
+                          "previousId": "builder-ed1e9f7efc97458196db0ce8806ce626"
+                        },
+                        "component": {
+                          "name": "Text",
+                          "options": {
+                            "text": "<p>Reference how you can use Builder for your blog, eCommerce product listings, or for your entire site.</p>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginTop": "0",
+                            "lineHeight": "normal",
+                            "height": "auto",
+                            "fontFamily": "\"Poppins\", sans-serif",
+                            "color": "rgba(0, 0, 0, 1)",
+                            "fontWeight": "400",
+                            "textAlign": "center",
+                            "fontSize": "12px",
+                            "paddingLeft": "10px",
+                            "paddingRight": "10px"
+                          },
+                          "small": {
+                            "textAlign": "center"
+                          }
+                        }
+                      }
+                    ],
+                    "responsiveStyles": {
+                      "large": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "position": "relative",
+                        "flexShrink": "0",
+                        "boxSizing": "border-box"
+                      }
+                    }
+                  }
+                ],
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "justifyContent": "space-between",
+                    "maxWidth": "48%",
+                    "paddingLeft": "0px",
+                    "paddingTop": "0px",
+                    "paddingBottom": "20px",
+                    "paddingRight": "0px",
+                    "borderStyle": "solid",
+                    "borderColor": "rgba(0, 0, 0, 1)",
+                    "borderWidth": "1px",
+                    "borderRadius": "9px",
+                    "cursor": "pointer",
+                    "pointerEvents": "auto",
+                    "overflow": "hidden"
+                  },
+                  "medium": {
+                    "maxWidth": "100%",
+                    "width": "100%"
+                  },
+                  "small": {
+                    "alignItems": "center",
+                    "maxWidth": "300px",
+                    "paddingLeft": "0px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "tagName": "a",
+                "id": "builder-e061522083fc4adbb0b440331969a3f6",
+                "properties": {
+                  "href": "https://www.builder.io/c/docs/ui-ve-tour",
+                  "target": "_blank"
+                },
+                "linkUrl": "https://www.builder.io/c/docs/ui-ve-tour",
+                "meta": {
+                  "previousId": "builder-b119625d5b0b4af796502b4266ee028b"
+                },
+                "children": [
+                  {
+                    "@type": "@builder.io/sdk:Element",
+                    "@version": 2,
+                    "id": "builder-176800f1961542d58ca179767b78f776",
+                    "meta": {
+                      "previousId": "builder-52eb00c675d04b638edfa2266fc950da"
+                    },
+                    "children": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-d4f257a2faf148b9be8366393fe7bc1a",
+                        "meta": {
+                          "previousId": "builder-c8e56387a98b47aeab1aa5aab0b5c65c"
+                        },
+                        "component": {
+                          "name": "Image",
+                          "options": {
+                            "image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F8195e5670c27459fb5231c7e24d6de58",
+                            "backgroundSize": "cover",
+                            "backgroundPosition": "center",
+                            "lazy": false,
+                            "fitContent": true,
+                            "aspectRatio": 0.45,
+                            "lockAspectRatio": false,
+                            "height": 448,
+                            "width": 996
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginTop": "0px",
+                            "width": "100%",
+                            "minHeight": "20px",
+                            "minWidth": "20px",
+                            "overflow": "hidden",
+                            "borderRadius": "0px"
+                          }
+                        }
+                      },
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-415182d3144c49fda542ab0af9e1adaf",
+                        "meta": {
+                          "previousId": "builder-411806c63c9b445591c65f1d2dffe967"
+                        },
+                        "component": {
+                          "name": "Text",
+                          "options": {
+                            "text": "<p>Tour the Visual Editor </p>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginTop": "9px",
+                            "lineHeight": "normal",
+                            "height": "auto",
+                            "fontFamily": "\"Poppins\", sans-serif",
+                            "color": "rgba(0, 0, 0, 1)",
+                            "fontWeight": "600",
+                            "textAlign": "center",
+                            "marginBottom": "10px",
+                            "paddingLeft": "10px",
+                            "paddingRight": "10px"
+                          }
+                        }
+                      },
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-3fb2427d7778436099a80a81074c39a1",
+                        "meta": {
+                          "previousId": "builder-9ee29504f5fd4daf9a5bf3651500bfca"
+                        },
+                        "component": {
+                          "name": "Text",
+                          "options": {
+                            "text": "<p>Check out the UI of the Visual Editor and compose complex layouts without writing any code.</p>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginTop": "0",
+                            "lineHeight": "normal",
+                            "height": "auto",
+                            "fontFamily": "\"Poppins\", sans-serif",
+                            "color": "rgba(0, 0, 0, 1)",
+                            "fontWeight": "400",
+                            "textAlign": "center",
+                            "fontSize": "12px",
+                            "paddingLeft": "10px",
+                            "paddingRight": "10px"
+                          },
+                          "small": {
+                            "textAlign": "center"
+                          }
+                        }
+                      }
+                    ],
+                    "responsiveStyles": {
+                      "large": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "position": "relative",
+                        "flexShrink": "0",
+                        "boxSizing": "border-box",
+                        "paddingLeft": "0px",
+                        "paddingTop": "0px",
+                        "paddingBottom": "20px",
+                        "paddingRight": "0px",
+                        "borderStyle": "solid",
+                        "borderWidth": "1px",
+                        "borderColor": "rgba(0, 0, 0, 1)",
+                        "borderRadius": "9px",
+                        "pointerEvents": "auto",
+                        "height": "100%",
+                        "overflow": "hidden"
+                      }
+                    }
+                  }
+                ],
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "justifyContent": "space-between",
+                    "maxWidth": "48%",
+                    "cursor": "pointer",
+                    "pointerEvents": "auto",
+                    "overflow": "hidden"
+                  },
+                  "medium": {
+                    "maxWidth": "100%",
+                    "width": "100%"
+                  },
+                  "small": {
+                    "alignItems": "center",
+                    "maxWidth": "300px",
+                    "paddingLeft": "0px"
+                  }
+                }
+              },
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "tagName": "a",
+                "id": "builder-4b7b49cb9b934eed9671a9ac5172d2fe",
+                "properties": {
+                  "href": "https://www.builder.io/c/docs/block-types",
+                  "target": "_blank"
+                },
+                "linkUrl": "https://www.builder.io/c/docs/block-types",
+                "meta": {
+                  "previousId": "builder-e061522083fc4adbb0b440331969a3f6"
+                },
+                "children": [
+                  {
+                    "@type": "@builder.io/sdk:Element",
+                    "@version": 2,
+                    "id": "builder-62d5ab6973e5492ab7e6dc9c50a84074",
+                    "meta": {
+                      "previousId": "builder-176800f1961542d58ca179767b78f776"
+                    },
+                    "children": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-2cfe71f44b1f4d53a85fd9d9f17a0e75",
+                        "meta": {
+                          "previousId": "builder-d4f257a2faf148b9be8366393fe7bc1a"
+                        },
+                        "component": {
+                          "name": "Image",
+                          "options": {
+                            "image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fcda9ac8a8433413b9d9c3606812cabc9",
+                            "backgroundSize": "cover",
+                            "backgroundPosition": "center",
+                            "lazy": false,
+                            "fitContent": true,
+                            "aspectRatio": 0.45,
+                            "lockAspectRatio": false,
+                            "height": 448,
+                            "width": 996
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginTop": "0px",
+                            "width": "100%",
+                            "minHeight": "20px",
+                            "minWidth": "20px",
+                            "overflow": "hidden",
+                            "borderRadius": "0px"
+                          }
+                        }
+                      },
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-8d494b3594964f5faab1bddeb137dbcd",
+                        "meta": {
+                          "previousId": "builder-415182d3144c49fda542ab0af9e1adaf"
+                        },
+                        "component": {
+                          "name": "Text",
+                          "options": {
+                            "text": "<p>Learn the building blocks</p>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginTop": "9px",
+                            "lineHeight": "normal",
+                            "height": "auto",
+                            "fontFamily": "\"Poppins\", sans-serif",
+                            "color": "rgba(0, 0, 0, 1)",
+                            "fontWeight": "600",
+                            "textAlign": "center",
+                            "marginBottom": "10px",
+                            "paddingLeft": "10px",
+                            "paddingRight": "10px"
+                          }
+                        }
+                      },
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-82bf96568a9a49bb9ffe4fb37c18f814",
+                        "meta": {
+                          "previousId": "builder-3fb2427d7778436099a80a81074c39a1"
+                        },
+                        "component": {
+                          "name": "Text",
+                          "options": {
+                            "text": "<p>Creating content in Builder uses a flexible toolset of no-code blocks that you can use to create almost anything.</p>"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginTop": "0",
+                            "lineHeight": "normal",
+                            "height": "auto",
+                            "fontFamily": "\"Poppins\", sans-serif",
+                            "color": "rgba(0, 0, 0, 1)",
+                            "fontWeight": "400",
+                            "textAlign": "center",
+                            "fontSize": "12px",
+                            "paddingLeft": "10px",
+                            "paddingRight": "10px"
+                          },
+                          "small": {
+                            "textAlign": "center"
+                          }
+                        }
+                      }
+                    ],
+                    "responsiveStyles": {
+                      "large": {
+                        "display": "flex",
+                        "flexDirection": "column",
+                        "position": "relative",
+                        "flexShrink": "0",
+                        "boxSizing": "border-box",
+                        "paddingLeft": "0px",
+                        "paddingTop": "0px",
+                        "paddingBottom": "20px",
+                        "paddingRight": "0px",
+                        "borderStyle": "solid",
+                        "borderColor": "rgba(0, 0, 0, 1)",
+                        "borderWidth": "1px",
+                        "borderRadius": "9px",
+                        "pointerEvents": "auto",
+                        "overflow": "hidden"
+                      }
+                    }
+                  }
+                ],
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "justifyContent": "space-between",
+                    "maxWidth": "48%",
+                    "cursor": "pointer",
+                    "pointerEvents": "auto",
+                    "overflow": "hidden"
+                  },
+                  "medium": {
+                    "maxWidth": "100%",
+                    "width": "100%"
+                  },
+                  "small": {
+                    "alignItems": "center",
+                    "maxWidth": "300px",
+                    "paddingLeft": "0px"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "row",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "40px",
+                "justifyContent": "center",
+                "width": "100%",
+                "alignSelf": "center",
+                "maxWidth": "700px",
+                "gap": "28px",
+                "flexWrap": "wrap"
+              },
+              "medium": {
+                "width": "100%",
+                "maxWidth": "450px"
+              },
+              "small": {
+                "display": "flex",
+                "flexDirection": "column",
+                "alignItems": "center"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "0px",
+            "paddingLeft": "20px",
+            "paddingRight": "20px",
+            "paddingTop": "33px",
+            "paddingBottom": "80px",
+            "minHeight": "100px",
+            "marginLeft": "calc(50% - 50vw)",
+            "color": "rgba(0, 0, 0, 1)",
+            "fontFamily": "\"Poppins\", sans-serif",
+            "backgroundColor": "rgba(255, 255, 255, 1)",
+            "width": "100vw"
+          },
+          "small": {
+            "paddingBottom": "40px"
+          }
+        }
+      },
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "layerName": "Learn More",
+        "id": "builder-230f6bf322d44a198c4cf2691db00011",
+        "class": "builder-footer",
+        "component": {
+          "name": "Core:Section",
+          "options": {
+            "maxWidth": 1200,
+            "lazyLoad": false
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5a84e9c60f144bd29a538bdc59e55aff",
+            "component": {
+              "name": "Columns",
+              "options": {
+                "columns": [
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "layerName": "Integrate Builder with your app",
+                        "id": "builder-e3ae1e20389c4dcc8feb0db69e20f8d3",
+                        "children": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-4ffca7ff003d468eb7d16f32527191d7",
+                            "children": [
+                              {
+                                "@type": "@builder.io/sdk:Element",
+                                "@version": 2,
+                                "id": "builder-b641274370e74f3fb0541268be940868",
+                                "meta": {
+                                  "previousId": "builder-fe5e7f5d00164549b3d3c20d20dbff97"
+                                },
+                                "component": {
+                                  "name": "Text",
+                                  "options": {
+                                    "text": "<p>Integrating Builder with your app</p>"
+                                  }
+                                },
+                                "responsiveStyles": {
+                                  "large": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "position": "relative",
+                                    "flexShrink": "0",
+                                    "boxSizing": "border-box",
+                                    "marginTop": "0px",
+                                    "lineHeight": "normal",
+                                    "height": "auto",
+                                    "fontFamily": "\"Poppins\", sans-serif",
+                                    "color": "rgba(255, 255, 255, 1)",
+                                    "fontWeight": "600",
+                                    "textAlign": "left",
+                                    "fontSize": "15px"
+                                  }
+                                }
+                              },
+                              {
+                                "@type": "@builder.io/sdk:Element",
+                                "@version": 2,
+                                "id": "builder-f929b65ca2264e9196b8b68b65047966",
+                                "children": [
+                                  {
+                                    "@type": "@builder.io/sdk:Element",
+                                    "@version": 2,
+                                    "layerName": "Integrations...",
+                                    "tagName": "a",
+                                    "id": "builder-9352224a1a1a4ac08ce6d4f8ffd9a747",
+                                    "properties": {
+                                      "href": "https://www.builder.io/c/docs/how-builder-works-technical",
+                                      "target": "_blank"
+                                    },
+                                    "linkUrl": "https://www.builder.io/c/docs/how-builder-works-technical",
+                                    "meta": {
+                                      "previousId": "builder-46edd649183c4f76b0720e1053bdea6f"
+                                    },
+                                    "component": {
+                                      "name": "Text",
+                                      "options": {
+                                        "text": "<p>How Builder Works</p>"
+                                      }
+                                    },
+                                    "responsiveStyles": {
+                                      "large": {
+                                        "display": "flex",
+                                        "flexDirection": "column",
+                                        "position": "relative",
+                                        "flexShrink": "0",
+                                        "boxSizing": "border-box",
+                                        "marginTop": "0px",
+                                        "lineHeight": "normal",
+                                        "height": "auto",
+                                        "fontFamily": "\"Poppins\", sans-serif",
+                                        "color": "rgba(255, 255, 255, 1)",
+                                        "fontWeight": "400",
+                                        "textAlign": "left",
+                                        "fontSize": "13px",
+                                        "cursor": "pointer",
+                                        "pointerEvents": "auto"
+                                      },
+                                      "medium": {
+                                        "textAlign": "center"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "@type": "@builder.io/sdk:Element",
+                                    "@version": 2,
+                                    "tagName": "a",
+                                    "id": "builder-27dfe918d1ee4b9eb8d7cde29d6d34f8",
+                                    "properties": {
+                                      "href": "https://www.builder.io/c/docs/integrate-symbols",
+                                      "target": "_blank"
+                                    },
+                                    "linkUrl": "https://www.builder.io/c/docs/integrate-symbols",
+                                    "meta": {
+                                      "previousId": "builder-b641274370e74f3fb0541268be940868"
+                                    },
+                                    "component": {
+                                      "name": "Text",
+                                      "options": {
+                                        "text": "<p>Integrate Symbols</p>"
+                                      }
+                                    },
+                                    "responsiveStyles": {
+                                      "large": {
+                                        "display": "flex",
+                                        "flexDirection": "column",
+                                        "position": "relative",
+                                        "flexShrink": "0",
+                                        "boxSizing": "border-box",
+                                        "marginTop": "0px",
+                                        "lineHeight": "normal",
+                                        "height": "auto",
+                                        "fontFamily": "\"Poppins\", sans-serif",
+                                        "color": "rgba(255, 255, 255, 1)",
+                                        "fontWeight": "400",
+                                        "textAlign": "left",
+                                        "fontSize": "13px",
+                                        "cursor": "pointer",
+                                        "pointerEvents": "auto"
+                                      },
+                                      "medium": {
+                                        "textAlign": "center"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "@type": "@builder.io/sdk:Element",
+                                    "@version": 2,
+                                    "layerName": "Guides...",
+                                    "tagName": "a",
+                                    "id": "builder-645ca4e4afc44c899af07b79424b0fe0",
+                                    "properties": {
+                                      "href": "https://www.builder.io/c/docs/integrate-cms-data",
+                                      "target": "_blank"
+                                    },
+                                    "linkUrl": "https://www.builder.io/c/docs/integrate-cms-data",
+                                    "meta": {
+                                      "previousId": "builder-27dfe918d1ee4b9eb8d7cde29d6d34f8"
+                                    },
+                                    "component": {
+                                      "name": "Text",
+                                      "options": {
+                                        "text": "<p>Using Builder CMS data</p>"
+                                      }
+                                    },
+                                    "responsiveStyles": {
+                                      "large": {
+                                        "display": "flex",
+                                        "flexDirection": "column",
+                                        "position": "relative",
+                                        "flexShrink": "0",
+                                        "boxSizing": "border-box",
+                                        "marginTop": "0px",
+                                        "lineHeight": "normal",
+                                        "height": "auto",
+                                        "fontFamily": "\"Poppins\", sans-serif",
+                                        "color": "rgba(255, 255, 255, 1)",
+                                        "fontWeight": "400",
+                                        "textAlign": "left",
+                                        "fontSize": "13px",
+                                        "cursor": "pointer",
+                                        "pointerEvents": "auto"
+                                      },
+                                      "medium": {
+                                        "textAlign": "center"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "@type": "@builder.io/sdk:Element",
+                                    "@version": 2,
+                                    "tagName": "a",
+                                    "id": "builder-46edd649183c4f76b0720e1053bdea6f",
+                                    "properties": {
+                                      "href": "https://www.builder.io/c/docs/api-intro",
+                                      "target": "_blank"
+                                    },
+                                    "linkUrl": "https://www.builder.io/c/docs/api-intro",
+                                    "meta": {
+                                      "previousId": "builder-645ca4e4afc44c899af07b79424b0fe0"
+                                    },
+                                    "component": {
+                                      "name": "Text",
+                                      "options": {
+                                        "text": "<p>Builder API </p>"
+                                      }
+                                    },
+                                    "responsiveStyles": {
+                                      "large": {
+                                        "display": "flex",
+                                        "flexDirection": "column",
+                                        "position": "relative",
+                                        "flexShrink": "0",
+                                        "boxSizing": "border-box",
+                                        "marginTop": "0px",
+                                        "lineHeight": "normal",
+                                        "height": "auto",
+                                        "fontFamily": "\"Poppins\", sans-serif",
+                                        "color": "rgba(255, 255, 255, 1)",
+                                        "fontWeight": "400",
+                                        "textAlign": "left",
+                                        "fontSize": "13px",
+                                        "cursor": "pointer",
+                                        "pointerEvents": "auto"
+                                      },
+                                      "medium": {
+                                        "textAlign": "center"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "responsiveStyles": {
+                                  "large": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "position": "relative",
+                                    "flexShrink": "0",
+                                    "boxSizing": "border-box",
+                                    "paddingTop": "10px",
+                                    "gap": "10px",
+                                    "lineHeight": "1.7"
+                                  }
+                                }
+                              }
+                            ],
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box"
+                              }
+                            }
+                          }
+                        ],
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box"
+                          },
+                          "medium": {
+                            "alignItems": "center"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "layerName": "Learn the Builder Visual Editor",
+                        "id": "builder-bc8bf05a2ccd42f6b2b8b3217ba8035d",
+                        "meta": {
+                          "previousId": "builder-4ffca7ff003d468eb7d16f32527191d7"
+                        },
+                        "children": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-b9fe1acc37ae4ad196ffcc5286bf0740",
+                            "meta": {
+                              "previousId": "builder-b641274370e74f3fb0541268be940868"
+                            },
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Learn the Builder Visual Editor</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "0px",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "fontFamily": "\"Poppins\", sans-serif",
+                                "color": "rgba(255, 255, 255, 1)",
+                                "fontWeight": "600",
+                                "textAlign": "left",
+                                "fontSize": "15px"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-3da7f88f6d8f42ce839e6a9295a752ac",
+                            "meta": {
+                              "previousId": "builder-f929b65ca2264e9196b8b68b65047966"
+                            },
+                            "children": [
+                              {
+                                "@type": "@builder.io/sdk:Element",
+                                "@version": 2,
+                                "tagName": "a",
+                                "id": "builder-0e28e53fc3ec48d49f8f81fc3a7ec5e3",
+                                "properties": {
+                                  "href": "https://www.builder.io/c/docs/how-builder-works",
+                                  "target": "_blank"
+                                },
+                                "linkUrl": "https://www.builder.io/c/docs/how-builder-works",
+                                "meta": {
+                                  "previousId": "builder-27dfe918d1ee4b9eb8d7cde29d6d34f8"
+                                },
+                                "component": {
+                                  "name": "Text",
+                                  "options": {
+                                    "text": "<p>Builder Docs</p>"
+                                  }
+                                },
+                                "responsiveStyles": {
+                                  "large": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "position": "relative",
+                                    "flexShrink": "0",
+                                    "boxSizing": "border-box",
+                                    "marginTop": "0px",
+                                    "lineHeight": "normal",
+                                    "height": "auto",
+                                    "fontFamily": "\"Poppins\", sans-serif",
+                                    "color": "rgba(255, 255, 255, 1)",
+                                    "fontWeight": "400",
+                                    "textAlign": "left",
+                                    "fontSize": "13px",
+                                    "cursor": "pointer",
+                                    "pointerEvents": "auto"
+                                  },
+                                  "medium": {
+                                    "textAlign": "center"
+                                  }
+                                }
+                              },
+                              {
+                                "@type": "@builder.io/sdk:Element",
+                                "@version": 2,
+                                "tagName": "a",
+                                "id": "builder-bff4c83cc6284a84955ad4c9e8474ecd",
+                                "properties": {
+                                  "href": "https://www.builder.io/c/docs/custom-components-intro",
+                                  "target": "_blank"
+                                },
+                                "linkUrl": "https://www.builder.io/c/docs/custom-components-intro",
+                                "meta": {
+                                  "previousId": "builder-645ca4e4afc44c899af07b79424b0fe0"
+                                },
+                                "component": {
+                                  "name": "Text",
+                                  "options": {
+                                    "text": "<p>Custom Components</p>"
+                                  }
+                                },
+                                "responsiveStyles": {
+                                  "large": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "position": "relative",
+                                    "flexShrink": "0",
+                                    "boxSizing": "border-box",
+                                    "marginTop": "0px",
+                                    "lineHeight": "normal",
+                                    "height": "auto",
+                                    "fontFamily": "\"Poppins\", sans-serif",
+                                    "color": "rgba(255, 255, 255, 1)",
+                                    "fontWeight": "400",
+                                    "textAlign": "left",
+                                    "fontSize": "13px",
+                                    "cursor": "pointer",
+                                    "pointerEvents": "auto"
+                                  },
+                                  "medium": {
+                                    "textAlign": "center"
+                                  }
+                                }
+                              },
+                              {
+                                "@type": "@builder.io/sdk:Element",
+                                "@version": 2,
+                                "tagName": "a",
+                                "id": "builder-6ef1bae0aeba4ec680a7fe8acc0bc0fd",
+                                "properties": {
+                                  "href": "https://www.builder.io/c/blueprints",
+                                  "target": "_blank"
+                                },
+                                "linkUrl": "https://www.builder.io/c/blueprints",
+                                "meta": {
+                                  "previousId": "builder-46edd649183c4f76b0720e1053bdea6f"
+                                },
+                                "component": {
+                                  "name": "Text",
+                                  "options": {
+                                    "text": "<p>Blueprints</p>"
+                                  }
+                                },
+                                "responsiveStyles": {
+                                  "large": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "position": "relative",
+                                    "flexShrink": "0",
+                                    "boxSizing": "border-box",
+                                    "marginTop": "0px",
+                                    "lineHeight": "normal",
+                                    "height": "auto",
+                                    "fontFamily": "\"Poppins\", sans-serif",
+                                    "color": "rgba(255, 255, 255, 1)",
+                                    "fontWeight": "400",
+                                    "textAlign": "left",
+                                    "fontSize": "13px",
+                                    "cursor": "pointer",
+                                    "pointerEvents": "auto"
+                                  },
+                                  "medium": {
+                                    "textAlign": "center"
+                                  }
+                                }
+                              },
+                              {
+                                "@type": "@builder.io/sdk:Element",
+                                "@version": 2,
+                                "tagName": "a",
+                                "id": "builder-756be86abf6749b8ba36387171d964a9",
+                                "properties": {
+                                  "href": "https://forum.builder.io/",
+                                  "target": "_blank"
+                                },
+                                "linkUrl": "https://forum.builder.io/",
+                                "meta": {
+                                  "previousId": "builder-9352224a1a1a4ac08ce6d4f8ffd9a747"
+                                },
+                                "component": {
+                                  "name": "Text",
+                                  "options": {
+                                    "text": "<p>Forum</p>"
+                                  }
+                                },
+                                "responsiveStyles": {
+                                  "large": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "position": "relative",
+                                    "flexShrink": "0",
+                                    "boxSizing": "border-box",
+                                    "marginTop": "0px",
+                                    "lineHeight": "normal",
+                                    "height": "auto",
+                                    "fontFamily": "\"Poppins\", sans-serif",
+                                    "color": "rgba(255, 255, 255, 1)",
+                                    "fontWeight": "400",
+                                    "textAlign": "left",
+                                    "fontSize": "13px",
+                                    "cursor": "pointer",
+                                    "pointerEvents": "auto"
+                                  },
+                                  "medium": {
+                                    "textAlign": "center"
+                                  }
+                                }
+                              }
+                            ],
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "paddingTop": "10px",
+                                "gap": "10px"
+                              }
+                            }
+                          }
+                        ],
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box"
+                          },
+                          "medium": {
+                            "marginTop": "27px",
+                            "alignItems": "center"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "space": 20,
+                "stackColumnsAt": "tablet",
+                "reverseColumnsWhenStacked": false
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "width": "100%",
+                "marginLeft": "auto",
+                "marginRight": "auto",
+                "maxWidth": "600px"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "0px",
+            "paddingLeft": "20px",
+            "paddingRight": "20px",
+            "paddingTop": "30px",
+            "paddingBottom": "40px",
+            "minHeight": "100px",
+            "color": "rgba(255, 255, 255, 1)",
+            "fontFamily": "\"Poppins\", sans-serif",
+            "backgroundColor": "rgba(0, 0, 0, 1)",
+            "width": "100vw",
+            "alignSelf": "stretch",
+            "marginLeft": "calc(50% - 50vw)"
+          },
+          "small": {
+            "paddingTop": "21px"
+          }
+        }
+      },
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "tagName": "img",
+        "id": "builder-pixel-bxasougj8c9",
+        "properties": {
+          "src": "https://cdn.builder.io/api/v1/pixel?apiKey=8d9ee72a33344b4b867918b442ebd0af",
+          "aria-hidden": "true",
+          "alt": "",
+          "role": "presentation",
+          "width": "0",
+          "height": "0"
+        },
+        "responsiveStyles": {
+          "large": {
+            "height": "0",
+            "width": "0",
+            "display": "inline-block",
+            "opacity": "0",
+            "overflow": "hidden",
+            "pointerEvents": "none"
+          }
+        }
+      }
+    ],
+    "url": "/builder-demo",
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "modelId": "f5e00df0705d4e91b985700574d63014",
+  "query": [
+    {
+      "@type": "@builder.io/core:Query",
+      "property": "urlPath",
+      "value": "/builder-demo",
+      "operator": "is"
+    }
+  ],
+  "published": "published",
+  "firstPublished": 1714381375392,
+  "@originId": "909bdfad89af45f2ada65217f23551d2",
+  "testRatio": 1,
+  "lastUpdated": 1716207326198,
+  "createdDate": 1714381375392,
+  "createdBy": "5VQlp9rSUlhlmqvRKzAt10sakk52",
+  "meta": {
+    "kind": "page",
+    "lastPreviewUrl": "http://localhost:3000/builder-demo?builder.space=91b83327b0bc4504999072c96fea561a&builder.cachebust=true&builder.preview=page&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.page=909bdfad89af45f2ada65217f23551d2&builder.overrides.909bdfad89af45f2ada65217f23551d2=909bdfad89af45f2ada65217f23551d2",
+    "componentsUsed": {
+      "Counter": 1
+    },
+    "hasLinks": true
+  },
+  "variations": {},
+  "name": "Builder + Next.js Demo Page",
+  "@originModelId": "4f9ca52ab0a642918a7b410ad5aa3a4d_4c7383752be74b999e3005016b69f9c9",
+  "@originOrgId": "91b83327b0bc4504999072c96fea561a",
+  "id": "4203e3e6157b47faaf5f065da264f1bc",
+  "rev": "3gum437epse",
+  "@originOrg": "4f9ca52ab0a642918a7b410ad5aa3a4d",
+  "@originContentId": "4f9ca52ab0a642918a7b410ad5aa3a4d_909bdfad89af45f2ada65217f23551d2"
+}
