@@ -1,8 +1,8 @@
 import { Builder } from '@builder.io/react'
 import React, { useState, useEffect } from 'react'
 
-export default function HeroProduct(props) {
-    const [productData, setProductData] = useState("hola");
+export default function HeroProduct(props: { shortDescription: string | number | bigint | boolean | React.ReactElement<any, string | React.JSXElementConstructor<any>> | Iterable<React.ReactNode> | React.ReactPortal | Promise<React.AwaitedReactNode> | null | undefined; options: any[]; duration: any; language: string | number | bigint | boolean | React.ReactElement<any, string | React.JSXElementConstructor<any>> | Iterable<React.ReactNode> | React.ReactPortal | Promise<React.AwaitedReactNode> | null | undefined; buttonBuyNowText: string | number | bigint | boolean | React.ReactElement<any, string | React.JSXElementConstructor<any>> | Iterable<React.ReactNode> | React.ReactPortal | Promise<React.AwaitedReactNode> | null | undefined; }) {
+    const [productData, setProductData] = useState({Hours: "", price: [{value: ""}]});
 
     useEffect(() => {
         // fetch('http://stage-restapi.360training.com:3737/search/ext/resources/store/21701/productview/basicSummary/byIds?id=367704')

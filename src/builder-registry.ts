@@ -12,6 +12,7 @@ import HeroProduct from "./components/heroProduct";
 import Home from "./pages/[[...page]]";
 import Nav from "./components/nav";
 import SpinningBall from "./components/spiningBall/spiningBall";
+import SectionDragAndDrop from "./components/SectionDragAndDrop";
 
 builder.init(process.env.NEXT_PUBLIC_BUILDER_API_KEY!);
 
@@ -146,9 +147,13 @@ Builder.registerComponent(Home, {
 });
 
 Builder.registerComponent(Nav, {
-  name: "Nav",
+  name: "nav-links",
 });
 
 Builder.registerComponent(SpinningBall, {
   name: "SpinningBall",
+});
+
+Builder.registerComponent(SectionDragAndDrop, {
+  name: "section-drag-and-drop",
 });
