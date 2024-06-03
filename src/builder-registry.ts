@@ -3,7 +3,7 @@ import { builder, Builder } from "@builder.io/react";
 import App from "./pages/_app";
 import { BuilderTextField } from "./components/textField";
 import Counter from "./components/Counter/Counter";
-import CustomBackgroundComponent from "./components/CustomBackgroundComponent";
+import CustomBackgroundComponent from "./components/customBackgroundComponent";
 import Footer from "./components/footer";
 import Header from "./components/header";
 import Heading from "./components/heading";
