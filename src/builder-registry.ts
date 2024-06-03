@@ -128,11 +128,11 @@ Builder.registerComponent(CustomBackgroundComponent, {
     },
   ],
 });
-
+/*
 Builder.registerComponent(HeroProduct, {
   name: "HeroProduct",
 });
-
+*/
 Builder.registerComponent(Hero, {
   name: "Hero",
 });
