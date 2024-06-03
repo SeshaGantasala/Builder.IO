@@ -8,7 +8,7 @@ import Footer from "./components/footer";
 import Header from "./components/header";
 import Heading from "./components/heading";
 import Hero from "./components/hero";
-import HeroProduct from "./components/heroProduct";
+//import HeroProduct from "./components/heroProduct";
 import Home from "./pages/[[...page]]";
 import Nav from "./components/nav";
 import SpinningBall from "./components/spiningBall/spiningBall";
