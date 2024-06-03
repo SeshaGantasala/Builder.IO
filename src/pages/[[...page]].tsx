@@ -69,25 +69,25 @@ import '../components/heading'
 import '../components/hero'
 import '../components/belowHeader'
 import '../components/heroProduct'
+import '../components/CustomBackgroundComponent'
 import '../components/customHeroProduct'
 
 export default function Home({ builderJson, links }: any) {
-  console.log(links)
   return (
     <>
-    
-      
+      <Header />
+      <Nav links={links} />
       <main className="min-h-[70vh]">
         <BuilderComponent model="page" content={builderJson} />
       </main>
-      
+      <Footer />
     </>
   );
 }
 
 export const getStaticProps: GetStaticProps = async ({ params }: any) => {
   try {
-    const links = await builder.getAll("figma-imports");
+    const links = await builder.getAll("nav-link");
 
     const content = await builder.get("page", {
       url: "/" + (params.page?.join("/") || ""),

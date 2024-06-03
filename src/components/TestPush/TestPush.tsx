@@ -1,6 +1,6 @@
 import { BuilderContent } from "@builder.io/react";
 
-export const TextPush = (props: { children: any; }) => {
+export const TextPush = (props) => {
   return (
     <BuilderContent model="test-push">
       {(data, loading, fullContent) => {
