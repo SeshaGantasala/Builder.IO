@@ -69,7 +69,7 @@ import '../components/heading'
 import '../components/hero'
 import '../components/belowHeader'
 import '../components/heroProduct'
-import '../components/CustomBackgroundComponent'
+import '../components/customBackgroundComponent'
 import '../components/customHeroProduct'
 
 export default function Home({ builderJson, links }: any) {
