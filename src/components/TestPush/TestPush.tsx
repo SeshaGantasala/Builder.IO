@@ -1,6 +1,6 @@
 import { BuilderContent } from "@builder.io/react";
 
-export const TextPush = (props) => {
+export const TestPush = (props) => {
   return (
     <BuilderContent model="test-push">
       {(data, loading, fullContent) => {
@@ -10,7 +10,7 @@ export const TextPush = (props) => {
           return (
             <>
               <ul>
-                {<div>{data.textpushmodel}</div>}
+                {<div>{data.testpushmodel}</div>}
               </ul>
               {props.children}
             </>
