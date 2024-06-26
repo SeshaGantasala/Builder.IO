@@ -41,7 +41,7 @@ Builder.registerComponent(customHeroProductwithChildren, {
     { name: 'textColor', type: 'color', defaultValue: '#000000', required: false }, // Text color input
     { name: 'textElement', type: 'string', defaultValue: 'p', enum: ['p', 'h1', 'h2', 'span'], required: true }, // Text element selector,
     { name: 'subTitle', type: 'string', defaultValue: 'Default Text', required: true },
-    { name: 'product', type: 'reference',model: 'test-push', required: true }
+    // { name: 'product', type: 'reference',model: 'test-push', required: true }
   ],
   childRequirements: {
     message: "This should be a description.",
