@@ -32,11 +32,11 @@ export default function HeroProduct(props) {
                         <div className="mod-hero__main col">
                             <div className="mod-hero__copy">
                                 <p>{props.shortDescription}</p>
-                                <ul>{props?.options?.map(option => {return <li>{option.option}</li>})}</ul>
+                                {/* <ul>{props?.options?.map(option => {return <li>{option.option}</li>})}</ul> */}
                                 <p>
                                     <strong>Duration:</strong> {props.duration ?? productData?.Hours} hours
                                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <strong>Language:</strong> {props.language}
-                                    <strong>price:</strong> {productData?.price?.map(price => {return price.value})}
+                                    {/* <strong>price:</strong> {productData?.price?.map(price => {return price.value})} */}
                                 </p>
                             </div>
                             {/* <a href="https://stage-www.360training.com/CustomOrderItemAdd?quantity_1=1&amp;storeId=21701&amp;catalogId=10051&amp;langId=-1&amp;calculationUsageId=1&amp;URL=AjaxOrderItemDisplayView&amp;catEntryId_1=366211&amp;calculateOrder=1&amp;authenticate=0&amp;orderId=.&amp;isDirectLink=true&amp;promoCode=" class="bulk-add-to-cart"><button class="course-box__buy" data-product-id="366211" data-lity-cart="" data-lity-target="#cart-lb" data-lity-target-mobile="#cart-lb-mob">BUY NOW</button></a> */}
